@@ -244,8 +244,7 @@ giving exactly:
 10. Mounting holes
 You added:
 - 2 × 5 mm NPTH mounting holes
-These were added as a team requirement.
-The exact hole coordinates aren't in the information I have here, so I would not put coordinates into the README until we read them directly from your PCB file.
+
 11. Protection / design features
 Your TLB currently has:
 Decoupling
