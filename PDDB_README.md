@@ -1,4 +1,4 @@
-# PDDB — Power Distribution & Driver Board
+# PDDB 
 
 ## 1. Overview
 
